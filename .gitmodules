@@ -1,6 +1,6 @@
 [submodule "2016-NDCH-St-Pete"]
 	path = 2016-NDCH-St-Pete
-	url = git@github.com:code-for-tb/2016-NDCH-St-Pete.git
+	url = https://github.com/code-for-tb/2016-NDCH-St-Pete.git
 [submodule "2016-NDCH-tampa"]
 	path = 2016-NDCH-tampa
-	url = git@github.com:code-for-tb/2016-NDCH-tampa.git
+	url = https://github.com/code-for-tb/2016-NDCH-tampa.git
